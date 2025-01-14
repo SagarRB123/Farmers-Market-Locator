@@ -81,7 +81,8 @@ The application offers a comprehensive set of tools tailored to meet the needs o
 
 ## Screenshots
 
-> Add screenshots showcasing key features such as the home screen, maps integration, and cost analysis dashboard.
+![First](https://github.com/SagarRB123/Farmers-Market-Locator/blob/main/7.png?raw=true)
+![Second](https://github.com/SagarRB123/Farmers-Market-Locator/blob/main/8.png?raw=true)
 
 ---
 
