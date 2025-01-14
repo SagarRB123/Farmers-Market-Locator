@@ -1,6 +1,6 @@
-# KisanBuddy
+# Farmers Market Locator
 
-KisanBuddy is an innovative Android application designed to empower farmers by helping them locate nearby markets, compare costs, and make informed decisions for selling their crops. The app integrates location-based services, cost calculations, and user-friendly interfaces to optimize market transactions.
+Farmers Market Locator is an innovative Android application designed to empower farmers by helping them locate nearby markets, compare costs, and make informed decisions for selling their crops. The app integrates location-based services, cost calculations, and user-friendly interfaces to optimize market transactions.
 
 ## Overview
 
